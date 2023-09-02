@@ -1,4 +1,2 @@
-(X) Nothing
-(C) Vehicle
-(D) Truck
-(F) Flag
+(W) Wet Coal
+(D) Dry Coal
